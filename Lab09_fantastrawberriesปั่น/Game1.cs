@@ -44,7 +44,7 @@ namespace Lab09_fantastrawberriesปั่น
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
-            // test1
+            // TODO: Add your drawing code here
 
             base.Draw(gameTime);
         }
