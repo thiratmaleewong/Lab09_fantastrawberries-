@@ -35,7 +35,7 @@ namespace Lab09_fantastrawberriesปั่น
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
                 Exit();
 
-            // TODO: Add your update logic here
+            int x = 1;
 
             base.Update(gameTime);
         }
