@@ -9,6 +9,11 @@ namespace Lab09_fantastrawberriesปั่น
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
 
+
+        public void Jirut(Game game)
+        {
+
+        }
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
